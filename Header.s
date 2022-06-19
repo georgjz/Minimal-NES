@@ -1,4 +1,5 @@
 ; Header information needed by the emulator
+; An actual NES game doesn't need this
 .segment "HEADER"
     .byte "NES"
     .byte $1a
